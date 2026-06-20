@@ -34,6 +34,7 @@
   "admin.errors.owner_exists": "An owner is already active.",
   "admin.errors.query_too_short": "Enter at least 2 characters.",
   "admin.errors.blacklist_not_found": "Blacklist entry not found.",
+  "admin.errors.otp_override_not_found": "OTP override entry not found.",
   "admin.errors.report_not_found": "Report not found.",
   "admin.errors.user_not_found": "User not found.",
   "admin.gifts.amount_label": "Amount",
@@ -205,5 +206,19 @@
   "admin.safety.blacklist_remove": "Remove ban",
   "admin.safety.blacklist_remove_success": "Blacklist entry removed.",
   "admin.safety.blacklist_remove_confirm_title": "Remove this blacklist entry?",
-  "admin.safety.blacklist_remove_confirm_body": "This allows the email or username to be used again, but it does not restore the deleted account."
+  "admin.safety.blacklist_remove_confirm_body": "This allows the email or username to be used again, but it does not restore the deleted account.",
+  "admin.safety.otp_override_title": "OTP email overrides",
+  "admin.safety.otp_override_subtitle": "Assign a fixed 6-digit login or signup code to specific emails without sending a real email.",
+  "admin.safety.otp_override_email": "Email",
+  "admin.safety.otp_override_code": "6-digit code",
+  "admin.safety.otp_override_save": "Save code",
+  "admin.safety.otp_override_save_success": "OTP override saved. The code is now hidden.",
+  "admin.safety.otp_override_empty": "No OTP override emails configured.",
+  "admin.safety.otp_override_helper": "Saved codes are never shown again. You can only replace the code or delete the override.",
+  "admin.safety.otp_override_replace": "Replace code",
+  "admin.safety.otp_override_remove": "Delete override",
+  "admin.safety.otp_override_remove_success": "OTP override deleted.",
+  "admin.safety.otp_override_remove_confirm_title": "Delete this OTP override?",
+  "admin.safety.otp_override_remove_confirm_body": "This email will go back to the normal OTP email flow after deletion.",
+  "admin.safety.otp_override_invalid_code": "Enter a valid 6-digit code."
 }

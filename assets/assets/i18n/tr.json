@@ -34,6 +34,7 @@
   "admin.errors.owner_exists": "Bir sahip zaten etkin.",
   "admin.errors.query_too_short": "En az 2 karakter girin.",
   "admin.errors.blacklist_not_found": "Kara liste kaydı bulunamadı.",
+  "admin.errors.otp_override_not_found": "OTP istisna kaydı bulunamadı.",
   "admin.errors.report_not_found": "Rapor bulunamadı.",
   "admin.errors.user_not_found": "Kullanıcı bulunamadı.",
   "admin.gifts.amount_label": "Tutar",
@@ -205,5 +206,19 @@
   "admin.safety.blacklist_remove": "Yasağı kaldır",
   "admin.safety.blacklist_remove_success": "Kara liste kaydı kaldırıldı.",
   "admin.safety.blacklist_remove_confirm_title": "Bu kara liste kaydı kaldırılsın mı?",
-  "admin.safety.blacklist_remove_confirm_body": "Bu işlem e-posta veya kullanıcı adının yeniden kullanılmasına izin verir, ancak silinen hesabı geri getirmez."
+  "admin.safety.blacklist_remove_confirm_body": "Bu işlem e-posta veya kullanıcı adının yeniden kullanılmasına izin verir, ancak silinen hesabı geri getirmez.",
+  "admin.safety.otp_override_title": "OTP e-posta istisnaları",
+  "admin.safety.otp_override_subtitle": "Belirli e-postalara gerçek e-posta göndermeden sabit 6 haneli giriş veya kayıt kodu tanımlayın.",
+  "admin.safety.otp_override_email": "E-posta",
+  "admin.safety.otp_override_code": "6 haneli kod",
+  "admin.safety.otp_override_save": "Kodu kaydet",
+  "admin.safety.otp_override_save_success": "OTP istisnası kaydedildi. Kod artık gizli tutuluyor.",
+  "admin.safety.otp_override_empty": "Tanımlı OTP istisna e-postası yok.",
+  "admin.safety.otp_override_helper": "Kaydedilen kod tekrar gösterilmez. Sadece kodu değiştirebilir veya istisnayı silebilirsiniz.",
+  "admin.safety.otp_override_replace": "Kodu değiştir",
+  "admin.safety.otp_override_remove": "İstisnayı sil",
+  "admin.safety.otp_override_remove_success": "OTP istisnası silindi.",
+  "admin.safety.otp_override_remove_confirm_title": "Bu OTP istisnası silinsin mi?",
+  "admin.safety.otp_override_remove_confirm_body": "Bu e-posta silindikten sonra yeniden normal OTP e-posta akışına döner.",
+  "admin.safety.otp_override_invalid_code": "Geçerli bir 6 haneli kod girin."
 }
