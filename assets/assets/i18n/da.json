@@ -163,5 +163,15 @@
   "admin.staff.permissions_subtitle": "Update the selected user's role and permissions from this panel.",
   "admin.staff.summary_total": "Total staff",
   "admin.staff.summary_owners": "Active owners",
-  "admin.staff.summary_managers": "Staff managers"
+  "admin.staff.summary_managers": "Staff managers",
+  "admin.safety.shadow_ban_badge": "Shadowban",
+  "admin.safety.shadow_ban_action": "Aktiver shadowban",
+  "admin.safety.shadow_ban_success": "Shadowban aktiveret.",
+  "admin.safety.shadow_ban_confirm_title": "Shadowban denne bruger?",
+  "admin.safety.shadow_ban_confirm_body": "Dette sletter ikke kontoen. Brugeren skjules fra søgning, anbefalinger og nye synlighedsflader; brugeren kan stadig skrive i chats, der allerede fandtes.",
+  "admin.safety.shadow_ban_clear_action": "Fjern shadowban",
+  "admin.safety.shadow_ban_clear_success": "Shadowban fjernet.",
+  "admin.safety.shadow_ban_clear_confirm_title": "Fjern shadowban?",
+  "admin.safety.shadow_ban_clear_confirm_body": "Dette sætter brugeren tilbage til normale synlighedsregler.",
+  "admin.safety.shadow_ban_helper": "Shadowban kan fortrydes og sletter ikke kontoen. Brugeren forsvinder fra nye søge-/anbefalingsflader, nye forbindelser er kun synlige for brugeren selv, og følgeanmodninger sender ikke notifikationer."
 }

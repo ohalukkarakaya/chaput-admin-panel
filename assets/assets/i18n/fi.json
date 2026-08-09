@@ -163,5 +163,15 @@
   "admin.staff.permissions_subtitle": "Update the selected user's role and permissions from this panel.",
   "admin.staff.summary_total": "Total staff",
   "admin.staff.summary_owners": "Active owners",
-  "admin.staff.summary_managers": "Staff managers"
+  "admin.staff.summary_managers": "Staff managers",
+  "admin.safety.shadow_ban_badge": "Shadow ban",
+  "admin.safety.shadow_ban_action": "Aseta shadow ban",
+  "admin.safety.shadow_ban_success": "Shadow ban asetettu.",
+  "admin.safety.shadow_ban_confirm_title": "Asetetaanko tälle käyttäjälle shadow ban?",
+  "admin.safety.shadow_ban_confirm_body": "Tämä ei poista tiliä. Käyttäjä piilotetaan hausta, suosituksista ja uusilta näkyvyyspinnoilta; hän voi silti kirjoittaa chatteihin, jotka olivat jo olemassa.",
+  "admin.safety.shadow_ban_clear_action": "Poista shadow ban",
+  "admin.safety.shadow_ban_clear_success": "Shadow ban poistettu.",
+  "admin.safety.shadow_ban_clear_confirm_title": "Poistetaanko shadow ban?",
+  "admin.safety.shadow_ban_clear_confirm_body": "Tämä palauttaa käyttäjän normaaleihin näkyvyyssääntöihin.",
+  "admin.safety.shadow_ban_helper": "Shadow ban on peruttavissa eikä poista tiliä. Käyttäjä katoaa uusista haku-/suosituspinnoista, uudet yhteydet näkyvät vain käyttäjälle itselleen eikä seuraamispyynnöistä lähetetä ilmoituksia."
 }

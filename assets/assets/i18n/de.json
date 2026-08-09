@@ -163,5 +163,15 @@
   "admin.staff.permissions_subtitle": "Update the selected user's role and permissions from this panel.",
   "admin.staff.summary_total": "Total staff",
   "admin.staff.summary_owners": "Active owners",
-  "admin.staff.summary_managers": "Staff managers"
+  "admin.staff.summary_managers": "Staff managers",
+  "admin.safety.shadow_ban_badge": "Shadow-Ban",
+  "admin.safety.shadow_ban_action": "Shadow-Ban anwenden",
+  "admin.safety.shadow_ban_success": "Shadow-Ban angewendet.",
+  "admin.safety.shadow_ban_confirm_title": "Diesen Nutzer per Shadow-Ban sperren?",
+  "admin.safety.shadow_ban_confirm_body": "Dies löscht das Konto nicht. Der Nutzer wird aus Suche, Empfehlungen und neuen Sichtbarkeitsbereichen ausgeblendet; er kann weiterhin in bereits vorhandenen Chats schreiben.",
+  "admin.safety.shadow_ban_clear_action": "Shadow-Ban aufheben",
+  "admin.safety.shadow_ban_clear_success": "Shadow-Ban aufgehoben.",
+  "admin.safety.shadow_ban_clear_confirm_title": "Shadow-Ban aufheben?",
+  "admin.safety.shadow_ban_clear_confirm_body": "Dadurch gilt für den Nutzer wieder die normale Sichtbarkeit.",
+  "admin.safety.shadow_ban_helper": "Der Shadow-Ban ist umkehrbar und löscht das Konto nicht. Der Nutzer verschwindet aus neuen Such- und Empfehlungsflächen, neue Verbindungen sind nur für ihn selbst sichtbar und Follow-Anfragen senden keine Benachrichtigungen."
 }

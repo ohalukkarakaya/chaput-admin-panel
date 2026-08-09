@@ -163,5 +163,15 @@
   "admin.staff.permissions_subtitle": "Update the selected user's role and permissions from this panel.",
   "admin.staff.summary_total": "Total staff",
   "admin.staff.summary_owners": "Active owners",
-  "admin.staff.summary_managers": "Staff managers"
+  "admin.staff.summary_managers": "Staff managers",
+  "admin.safety.shadow_ban_badge": "Shadow ban",
+  "admin.safety.shadow_ban_action": "Aplicar shadow ban",
+  "admin.safety.shadow_ban_success": "Shadow ban aplicado.",
+  "admin.safety.shadow_ban_confirm_title": "¿Aplicar shadow ban a este usuario?",
+  "admin.safety.shadow_ban_confirm_body": "Esto no elimina la cuenta. El usuario queda oculto en búsqueda, recomendaciones y nuevas superficies de visibilidad; aún puede escribir en los chats que ya tenía.",
+  "admin.safety.shadow_ban_clear_action": "Quitar shadow ban",
+  "admin.safety.shadow_ban_clear_success": "Shadow ban retirado.",
+  "admin.safety.shadow_ban_clear_confirm_title": "¿Quitar el shadow ban?",
+  "admin.safety.shadow_ban_clear_confirm_body": "Esto devuelve al usuario a las reglas normales de visibilidad.",
+  "admin.safety.shadow_ban_helper": "El shadow ban es reversible y no elimina la cuenta. El usuario desaparece de nuevas búsquedas/recomendaciones, las nuevas conexiones solo son visibles para él y sus solicitudes de seguimiento no envían notificaciones."
 }

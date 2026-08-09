@@ -163,5 +163,15 @@
   "admin.staff.permissions_subtitle": "Update the selected user's role and permissions from this panel.",
   "admin.staff.summary_total": "Total staff",
   "admin.staff.summary_owners": "Active owners",
-  "admin.staff.summary_managers": "Staff managers"
+  "admin.staff.summary_managers": "Staff managers",
+  "admin.safety.shadow_ban_badge": "Shadowban",
+  "admin.safety.shadow_ban_action": "Aktiver shadowban",
+  "admin.safety.shadow_ban_success": "Shadowban aktivert.",
+  "admin.safety.shadow_ban_confirm_title": "Shadowbanne denne brukeren?",
+  "admin.safety.shadow_ban_confirm_body": "Dette sletter ikke kontoen. Brukeren skjules fra søk, anbefalinger og nye synlighetsflater; brukeren kan fortsatt skrive i chatter som allerede fantes.",
+  "admin.safety.shadow_ban_clear_action": "Fjern shadowban",
+  "admin.safety.shadow_ban_clear_success": "Shadowban fjernet.",
+  "admin.safety.shadow_ban_clear_confirm_title": "Fjerne shadowban?",
+  "admin.safety.shadow_ban_clear_confirm_body": "Dette setter brukeren tilbake til normale synlighetsregler.",
+  "admin.safety.shadow_ban_helper": "Shadowban kan reverseres og sletter ikke kontoen. Brukeren forsvinner fra nye søke-/anbefalingsflater, nye koblinger er bare synlige for brukeren selv, og følgeforespørsler sender ikke varsler."
 }
