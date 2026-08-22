@@ -173,5 +173,9 @@
   "admin.safety.shadow_ban_clear_success": "Shadow ban retirado.",
   "admin.safety.shadow_ban_clear_confirm_title": "¿Quitar el shadow ban?",
   "admin.safety.shadow_ban_clear_confirm_body": "Esto devuelve al usuario a las reglas normales de visibilidad.",
-  "admin.safety.shadow_ban_helper": "El shadow ban es reversible y no elimina la cuenta. El usuario desaparece de nuevas búsquedas/recomendaciones, las nuevas conexiones solo son visibles para él y sus solicitudes de seguimiento no envían notificaciones."
+  "admin.safety.shadow_ban_helper": "El shadow ban es reversible y no elimina la cuenta. El usuario desaparece de nuevas búsquedas/recomendaciones, las nuevas conexiones solo son visibles para él y sus solicitudes de seguimiento no envían notificaciones.",
+  "admin.safety.search_idle": "Busca un usuario. Selecciona un resultado para abrir las acciones de moderación.",
+  "admin.safety.search_no_results": "Ningún usuario activo coincide con esta búsqueda.",
+  "admin.safety.selected_user": "Usuario seleccionado",
+  "admin.safety.select_user_hint": "Primero busca y selecciona un usuario. Las acciones de shadow ban y blacklist permanente aparecerán aquí."
 }

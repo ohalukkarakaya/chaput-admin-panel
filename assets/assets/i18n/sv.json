@@ -173,5 +173,9 @@
   "admin.safety.shadow_ban_clear_success": "Shadowban borttaget.",
   "admin.safety.shadow_ban_clear_confirm_title": "Ta bort shadowban?",
   "admin.safety.shadow_ban_clear_confirm_body": "Detta återställer användaren till normala synlighetsregler.",
-  "admin.safety.shadow_ban_helper": "Shadowban kan ångras och tar inte bort kontot. Användaren försvinner från nya sök-/rekommendationsytor, nya kopplingar syns bara för användaren själv och följförfrågningar skickar inga aviseringar."
+  "admin.safety.shadow_ban_helper": "Shadowban kan ångras och tar inte bort kontot. Användaren försvinner från nya sök-/rekommendationsytor, nya kopplingar syns bara för användaren själv och följförfrågningar skickar inga aviseringar.",
+  "admin.safety.search_idle": "Sök efter en användare. Välj ett resultat för att öppna modereringsåtgärder.",
+  "admin.safety.search_no_results": "Ingen aktiv användare matchade sökningen.",
+  "admin.safety.selected_user": "Vald användare",
+  "admin.safety.select_user_hint": "Sök och välj först en användare. Shadowban och permanent svartlistning visas här."
 }

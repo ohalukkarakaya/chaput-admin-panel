@@ -173,5 +173,9 @@
   "admin.safety.shadow_ban_clear_success": "Shadow-Ban aufgehoben.",
   "admin.safety.shadow_ban_clear_confirm_title": "Shadow-Ban aufheben?",
   "admin.safety.shadow_ban_clear_confirm_body": "Dadurch gilt für den Nutzer wieder die normale Sichtbarkeit.",
-  "admin.safety.shadow_ban_helper": "Der Shadow-Ban ist umkehrbar und löscht das Konto nicht. Der Nutzer verschwindet aus neuen Such- und Empfehlungsflächen, neue Verbindungen sind nur für ihn selbst sichtbar und Follow-Anfragen senden keine Benachrichtigungen."
+  "admin.safety.shadow_ban_helper": "Der Shadow-Ban ist umkehrbar und löscht das Konto nicht. Der Nutzer verschwindet aus neuen Such- und Empfehlungsflächen, neue Verbindungen sind nur für ihn selbst sichtbar und Follow-Anfragen senden keine Benachrichtigungen.",
+  "admin.safety.search_idle": "Suche nach einem Nutzer. Wähle ein Ergebnis aus, um Moderationsaktionen zu öffnen.",
+  "admin.safety.search_no_results": "Kein aktiver Nutzer passt zu dieser Suche.",
+  "admin.safety.selected_user": "Ausgewählter Nutzer",
+  "admin.safety.select_user_hint": "Suche zuerst nach einem Nutzer und wähle ein Ergebnis aus. Shadow-Ban und dauerhafte Blacklist-Aktionen erscheinen dann hier."
 }

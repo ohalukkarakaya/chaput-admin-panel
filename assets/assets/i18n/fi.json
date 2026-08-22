@@ -173,5 +173,9 @@
   "admin.safety.shadow_ban_clear_success": "Shadow ban poistettu.",
   "admin.safety.shadow_ban_clear_confirm_title": "Poistetaanko shadow ban?",
   "admin.safety.shadow_ban_clear_confirm_body": "Tämä palauttaa käyttäjän normaaleihin näkyvyyssääntöihin.",
-  "admin.safety.shadow_ban_helper": "Shadow ban on peruttavissa eikä poista tiliä. Käyttäjä katoaa uusista haku-/suosituspinnoista, uudet yhteydet näkyvät vain käyttäjälle itselleen eikä seuraamispyynnöistä lähetetä ilmoituksia."
+  "admin.safety.shadow_ban_helper": "Shadow ban on peruttavissa eikä poista tiliä. Käyttäjä katoaa uusista haku-/suosituspinnoista, uudet yhteydet näkyvät vain käyttäjälle itselleen eikä seuraamispyynnöistä lähetetä ilmoituksia.",
+  "admin.safety.search_idle": "Etsi käyttäjä. Valitse tulos avataksesi moderointitoiminnot.",
+  "admin.safety.search_no_results": "Yksikään aktiivinen käyttäjä ei vastannut tätä hakua.",
+  "admin.safety.selected_user": "Valittu käyttäjä",
+  "admin.safety.select_user_hint": "Etsi ja valitse ensin käyttäjä. Shadow ban ja pysyvä mustalistatoiminto näkyvät täällä."
 }

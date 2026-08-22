@@ -173,5 +173,9 @@
   "admin.safety.shadow_ban_clear_success": "Shadowban fjernet.",
   "admin.safety.shadow_ban_clear_confirm_title": "Fjerne shadowban?",
   "admin.safety.shadow_ban_clear_confirm_body": "Dette setter brukeren tilbake til normale synlighetsregler.",
-  "admin.safety.shadow_ban_helper": "Shadowban kan reverseres og sletter ikke kontoen. Brukeren forsvinner fra nye søke-/anbefalingsflater, nye koblinger er bare synlige for brukeren selv, og følgeforespørsler sender ikke varsler."
+  "admin.safety.shadow_ban_helper": "Shadowban kan reverseres og sletter ikke kontoen. Brukeren forsvinner fra nye søke-/anbefalingsflater, nye koblinger er bare synlige for brukeren selv, og følgeforespørsler sender ikke varsler.",
+  "admin.safety.search_idle": "Søk etter en bruker. Velg et resultat for å åpne modereringshandlinger.",
+  "admin.safety.search_no_results": "Ingen aktiv bruker samsvarte med dette søket.",
+  "admin.safety.selected_user": "Valgt bruker",
+  "admin.safety.select_user_hint": "Søk og velg en bruker først. Shadowban og permanent svartelisting vises her."
 }

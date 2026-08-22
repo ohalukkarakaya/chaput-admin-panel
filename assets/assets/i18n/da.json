@@ -173,5 +173,9 @@
   "admin.safety.shadow_ban_clear_success": "Shadowban fjernet.",
   "admin.safety.shadow_ban_clear_confirm_title": "Fjern shadowban?",
   "admin.safety.shadow_ban_clear_confirm_body": "Dette sætter brugeren tilbage til normale synlighedsregler.",
-  "admin.safety.shadow_ban_helper": "Shadowban kan fortrydes og sletter ikke kontoen. Brugeren forsvinder fra nye søge-/anbefalingsflader, nye forbindelser er kun synlige for brugeren selv, og følgeanmodninger sender ikke notifikationer."
+  "admin.safety.shadow_ban_helper": "Shadowban kan fortrydes og sletter ikke kontoen. Brugeren forsvinder fra nye søge-/anbefalingsflader, nye forbindelser er kun synlige for brugeren selv, og følgeanmodninger sender ikke notifikationer.",
+  "admin.safety.search_idle": "Søg efter en bruger. Vælg et resultat for at åbne modereringshandlinger.",
+  "admin.safety.search_no_results": "Ingen aktiv bruger matchede denne søgning.",
+  "admin.safety.selected_user": "Valgt bruger",
+  "admin.safety.select_user_hint": "Søg og vælg først en bruger. Shadowban og permanent sortlistning vises her."
 }
